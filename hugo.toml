@@ -1,4 +1,4 @@
-baseURL = 'diseaseneurogenomics.github.io'
+baseURL = 'diseaseneurogenomics.github.io/dreamscape'
 locale = 'en-us'
 title = 'dreamscape'
 theme = 'ananke'

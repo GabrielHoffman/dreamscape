@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Dreamscape ecosystem on dreamscape</title>
-		<link>diseaseneurogenomics.github.io/</link>
+		<link>diseaseneurogenomics.github.io/dreamscape/</link>
 		<description>Recent content in Dreamscape ecosystem on dreamscape</description>
 		<generator>Hugo</generator>
 		<language>en-us</language>
@@ -10,6 +10,6 @@
 		
 		
 		
-			<atom:link href="diseaseneurogenomics.github.io/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="diseaseneurogenomics.github.io/dreamscape/index.xml" rel="self" type="application/rss+xml" />
 	</channel>
 </rss>
