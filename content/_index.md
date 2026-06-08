@@ -17,7 +17,7 @@ Dreamscape is a set of [R](https://www.r-project.org) / [Bioconductor](https://b
 |![](https://gabrielhoffman.github.io/BatchRegression/reference/figures/logo.png) |[BatchRegression](https://gabrielhoffman.github.io/BatchRegression/): Fit regression models on large-scale datasets| 
 | ![](https://diseaseneurogenomics.github.io/dreamlet/reference/figures/logo.png) | [dreamlet](https://diseaseneurogenomics.github.io/dreamlet/): Scalable differential expression analysis of single cell transcriptomics datasets with complex study designs [^dreamlet]
 | ![](https://diseaseneurogenomics.github.io/crumblr/reference/figures/logo.png)| [crumblr](https://diseaseneurogenomics.github.io/crumblr/): Count ratio uncertainty modeling based linear regression [^crumblr]
-| ![](https://gabrielhoffman.github.io/img/dream_icon.png)| [dream](https://diseaseneurogenomics.github.io/variancePartition/): Powerful differential expression analysis for repeated measures designs [^dream]
+| ![](https://gabrielhoffman.github.io/img/dream_icon.png)| [dream](https://diseaseneurogenomics.github.io/variancePartition/articles/dream.html): Powerful differential expression analysis for repeated measures designs [^dream]
 | ![](https://gabrielhoffman.github.io/img/variancePartition2.png)| [variancePartition](https://diseaseneurogenomics.github.io/variancePartition/): Interpreting drivers of variation in complex gene expression studies with linear mixed models [^vp]
 
 [^lucida]: Hoffman, et al. Scalable differential expression analysis at the single cell level increases power in rare cell types. (in prep)
